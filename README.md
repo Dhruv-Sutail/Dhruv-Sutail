@@ -4,7 +4,7 @@
 - 🌱 I’m currently working on Kubernetes and Docker  
   
 
-- ❓ Ask me about anything related to php , laravel and related technologies  
+- ❓ Ask me about anything related to MERN and related technologies  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
